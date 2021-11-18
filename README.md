@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tysudo
-- 👀 I’m interested in how to use git
-- 🌱 I’m currently learning how to use HTML5
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in how to use python3
+- 🌱 I’m currently learning how to use python 3
 - 📫 How to reach me tytancool6@gmail.com
 <!---
 tysudo/tysudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
