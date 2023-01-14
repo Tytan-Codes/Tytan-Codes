@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tysudo
 - 👀 I’m interested in how to use python3
-- 🌱 I’m currently learning how to RTFM LMAO
+- 🌱 I’m currently learning how to RTFM!
 - 📫 How to reach me 91703892+tysudo@users.noreply.github.com 
 <!---
 tysudo/tysudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
