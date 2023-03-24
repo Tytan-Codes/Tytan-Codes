@@ -1,4 +1,4 @@
-ALL OF MY REPOS ARE PROTECTED UNDER THE [***Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)***](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+__ALL OF MY REPOS ARE PROTECTED UNDER THE__ [***Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)***](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 - 👋 Hi, I’m @Tytan-Codes
 - 👀 I’m interested in how to use python3
 - 🌱 I’m currently learning how to RTFM!
