@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python 3**
 
-- 📫 How to reach me **spam@tytan.codes**
+- 📫 How to reach me **hello@tytan.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
