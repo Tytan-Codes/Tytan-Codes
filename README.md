@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tytan-codes&show_icons=true&theme=dark&locale=en&layout=compact" alt="tytan-codes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tytan-codes&theme=dark" alt="tytan-codes" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tytan-Codes&theme=dark&hide_border=true)](https://git.io/streak-stats)
